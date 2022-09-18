@@ -1,0 +1,603 @@
+[
+    {
+        "title": "Rivermate",
+        "url": "https://www.rivermate.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657067075640-rivermate-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657067080205-rivermate-landing-page-mobile.png"
+    },
+    {
+        "title": "Dorik",
+        "url": "https://dorik.com/cms",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657067003462-dorik-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657067008141-dorik-landing-page-mobile.png"
+    },
+    {
+        "title": "Fixcolab",
+        "url": "fixcolab.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066961543-fixcolab-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066966921-fixcolab-landing-page-mobile.png"
+    },
+    {
+        "title": "Shiftx",
+        "url": "https://shiftx.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066893518-shiftx-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066897619-shiftx-landing-page-mobile.png"
+    },
+    {
+        "title": "Signature Pro",
+        "url": "https://signatureprodesign.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066807372-signature-pro-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066813263-signature-pro-landing-page-mobile.png"
+    },
+    {
+        "title": "Simpu",
+        "url": "https://simpu.co/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066758861-simpu-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066762621-simpu-landing-page-mobile.png"
+    },
+    {
+        "title": "Burb",
+        "url": "https://www.burb.co/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066716706-burb-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066721360-burb-landing-page-mobile.png"
+    },
+    {
+        "title": "Latana",
+        "url": "https://latana.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655081021797-latana-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655081026755-latana-landing-page-mobile.png"
+    },
+    {
+        "title": "Digitaltoucan",
+        "url": "https://www.digitaltoucan.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080967461-digitaltoucan-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080971168-digitaltoucan-landing-page-mobile.png"
+    },
+    {
+        "title": "1Password Future",
+        "url": "https://www.future.1password.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080802973-1password-future-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080807911-1password-future-landing-page-mobile.png"
+    },
+    {
+        "title": "Designmaestro",
+        "url": "https://www.designmaestro.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080704354-designmaestro-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080708158-designmaestro-landing-page-mobile.png"
+    },
+    {
+        "title": "Automator",
+        "url": "https://automator.design/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080672706-automator-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080676177-automator-landing-page-mobile.png"
+    },
+    {
+        "title": "Caboodle",
+        "url": "https://caboodle.studio/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080633377-caboodle-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080638747-caboodle-landing-page-mobile.png"
+    },
+    {
+        "title": "Metarouter",
+        "url": "https://www.metarouter.io",
+        "desktop_img": "https://landingfoliocom.imgix.net/1652749619399-metarouter-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1652749624276-metarouter-landing-page-mobile.png"
+    },
+    {
+        "title": "Seo",
+        "url": "https://seo.do",
+        "desktop_img": "https://landingfoliocom.imgix.net/1652749582501-seo-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1652749586421-seo-landing-page-mobile.png"
+    },
+    {
+        "title": "Zeo",
+        "url": "https://zeo.org",
+        "desktop_img": "https://landingfoliocom.imgix.net/1652749503702-zeo-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1652749508264-zeo-landing-page-mobile.png"
+    },
+    {
+        "title": "Viewport",
+        "url": "viewport.co",
+        "desktop_img": "https://landingfoliocom.imgix.net/1652749404521-viewport-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1652749414501-viewport-landing-page-mobile.png"
+    },
+    {
+        "title": "Dona",
+        "url": "https://dona.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651058042377-dona-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651058046729-dona-landing-page-mobile.png"
+    },
+    {
+        "title": "Upword",
+        "url": "https://www.upword.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651058003537-upword-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651058007942-upword-landing-page-mobile.png"
+    },
+    {
+        "title": "Mage",
+        "url": "https://www.mage.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057940385-mage-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057945319-mage-landing-page-mobile.png"
+    }
+][
+    {
+        "title": "Idle",
+        "url": "https://idle.finance/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1662691809456-idle-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1662691816150-idle-landing-page-mobile.png"
+    },
+    {
+        "title": "Sannewijbenga",
+        "url": "https://www.sannewijbenga.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1662691768971-sannewijbenga-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1662691775060-sannewijbenga-landing-page-mobile.png"
+    },
+    {
+        "title": "Nokkel",
+        "url": "https://nokkel.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1662692154786-nokkel-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1662692160175-nokkel-landing-page-mobile.png"
+    },
+    {
+        "title": "Framessystem",
+        "url": "https://www.framessystem.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1662691737930-framessystem-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1662691743298-framessystem-landing-page-mobile.png"
+    },
+    {
+        "title": "Tattooidea",
+        "url": "https://www.tattooidea.art/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1660741695362-tattooidea-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1660741705146-tattooidea-landing-page-mobile.png"
+    },
+    {
+        "title": "Sparkloop",
+        "url": "https://sparkloop.app/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1659502012371-sparkloop-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1659502017361-sparkloop-landing-page-mobile.png"
+    },
+    {
+        "title": "Planzer",
+        "url": "https://planzer.io",
+        "desktop_img": "https://landingfoliocom.imgix.net/1659501972080-planzer-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1659501976272-planzer-landing-page-mobile.png"
+    },
+    {
+        "title": "Slidddo",
+        "url": "https://www.slidddo.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1659501818569-slidddo-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1659501825394-slidddo-landing-page-mobile.png"
+    },
+    {
+        "title": "My Design Buddy",
+        "url": "https://www.mydesignbuddy.co.uk/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1659501753252-my-design-buddy-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1659501757674-my-design-buddy-landing-page-mobile.png"
+    },
+    {
+        "title": "Parallel",
+        "url": "https://www.useparallel.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1659501655834-parallel-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1659501660768-parallel-landing-page-mobile.png"
+    },
+    {
+        "title": "Reflect",
+        "url": "https://reflect.app/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1659501624538-reflect-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1659501628951-reflect-landing-page-mobile.png"
+    },
+    {
+        "title": "Nbundle",
+        "url": "https://www.nbundle.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1659501939636-nbundle-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1659501945017-nbundle-landing-page-mobile.png"
+    },
+    {
+        "title": "Order Link",
+        "url": "https://en.order.link/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1659501585212-order-link-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1659501589934-order-link-landing-page-mobile.png"
+    },
+    {
+        "title": "Buildwithflow",
+        "url": "https://www.buildwithflow.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657067232432-buildwithflow-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657067238407-buildwithflow-landing-page-mobile.png"
+    },
+    {
+        "title": "Hagrid",
+        "url": "https://hagrid.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657067163333-hagrid-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657067170197-hagrid-landing-page-mobile.png"
+    },
+    {
+        "title": "Rivermate",
+        "url": "https://www.rivermate.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657067075640-rivermate-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657067080205-rivermate-landing-page-mobile.png"
+    },
+    {
+        "title": "Dorik",
+        "url": "https://dorik.com/cms",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657067003462-dorik-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657067008141-dorik-landing-page-mobile.png"
+    },
+    {
+        "title": "Fixcolab",
+        "url": "fixcolab.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066961543-fixcolab-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066966921-fixcolab-landing-page-mobile.png"
+    },
+    {
+        "title": "Shiftx",
+        "url": "https://shiftx.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066893518-shiftx-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066897619-shiftx-landing-page-mobile.png"
+    },
+    {
+        "title": "Signature Pro",
+        "url": "https://signatureprodesign.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066807372-signature-pro-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066813263-signature-pro-landing-page-mobile.png"
+    },
+    {
+        "title": "Simpu",
+        "url": "https://simpu.co/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066758861-simpu-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066762621-simpu-landing-page-mobile.png"
+    },
+    {
+        "title": "Burb",
+        "url": "https://www.burb.co/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1657066716706-burb-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1657066721360-burb-landing-page-mobile.png"
+    },
+    {
+        "title": "Latana",
+        "url": "https://latana.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655081021797-latana-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655081026755-latana-landing-page-mobile.png"
+    },
+    {
+        "title": "Digitaltoucan",
+        "url": "https://www.digitaltoucan.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080967461-digitaltoucan-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080971168-digitaltoucan-landing-page-mobile.png"
+    },
+    {
+        "title": "1Password Future",
+        "url": "https://www.future.1password.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080802973-1password-future-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080807911-1password-future-landing-page-mobile.png"
+    },
+    {
+        "title": "Designmaestro",
+        "url": "https://www.designmaestro.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080704354-designmaestro-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080708158-designmaestro-landing-page-mobile.png"
+    },
+    {
+        "title": "Automator",
+        "url": "https://automator.design/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080672706-automator-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080676177-automator-landing-page-mobile.png"
+    },
+    {
+        "title": "Caboodle",
+        "url": "https://caboodle.studio/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1655080633377-caboodle-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1655080638747-caboodle-landing-page-mobile.png"
+    },
+    {
+        "title": "Metarouter",
+        "url": "https://www.metarouter.io",
+        "desktop_img": "https://landingfoliocom.imgix.net/1652749619399-metarouter-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1652749624276-metarouter-landing-page-mobile.png"
+    },
+    {
+        "title": "Seo",
+        "url": "https://seo.do",
+        "desktop_img": "https://landingfoliocom.imgix.net/1652749582501-seo-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1652749586421-seo-landing-page-mobile.png"
+    },
+    {
+        "title": "Zeo",
+        "url": "https://zeo.org",
+        "desktop_img": "https://landingfoliocom.imgix.net/1652749503702-zeo-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1652749508264-zeo-landing-page-mobile.png"
+    },
+    {
+        "title": "Viewport",
+        "url": "viewport.co",
+        "desktop_img": "https://landingfoliocom.imgix.net/1652749404521-viewport-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1652749414501-viewport-landing-page-mobile.png"
+    },
+    {
+        "title": "Dona",
+        "url": "https://dona.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651058042377-dona-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651058046729-dona-landing-page-mobile.png"
+    },
+    {
+        "title": "Upword",
+        "url": "https://www.upword.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651058003537-upword-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651058007942-upword-landing-page-mobile.png"
+    },
+    {
+        "title": "Mage",
+        "url": "https://www.mage.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057940385-mage-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057945319-mage-landing-page-mobile.png"
+    },
+    {
+        "title": "Startupstofund",
+        "url": "https://www.startupstofund.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651055155343-startupstofund-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651055159149-startupstofund-landing-page-mobile.png"
+    },
+    {
+        "title": "Coinfalcon",
+        "url": "https://coinfalcon.com/en",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054868898-coinfalcon-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054872252-coinfalcon-landing-page-mobile.png"
+    },
+    {
+        "title": "Abyssale",
+        "url": "https://www.abyssale.com/dynamic-images",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651019070618-abyssale-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651019075383-abyssale-landing-page-mobile.png"
+    },
+    {
+        "title": "Scale",
+        "url": "https://scale.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057891404-scale-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057896960-scale-landing-page-mobile.png"
+    },
+    {
+        "title": "Altered State Machine",
+        "url": "https://www.alteredstatemachine.xyz/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057825248-altered-state-machine-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057829883-altered-state-machine-landing-page-mobile.png"
+    },
+    {
+        "title": "Runwayml",
+        "url": "https://runwayml.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057784677-runwayml-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057795178-runwayml-landing-page-mobile.png"
+    },
+    {
+        "title": "Obviously",
+        "url": "https://www.obviously.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057751952-obviously-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057756004-obviously-landing-page-mobile.png"
+    },
+    {
+        "title": "Watermelon",
+        "url": "https://watermelon.co/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057723625-watermelon-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057729166-watermelon-landing-page-mobile.png"
+    },
+    {
+        "title": "Reclaim",
+        "url": "https://reclaim.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057688771-reclaim-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057692882-reclaim-landing-page-mobile.png"
+    },
+    {
+        "title": "Synthesia",
+        "url": "https://www.synthesia.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057651613-synthesia-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057657905-synthesia-landing-page-mobile.png"
+    },
+    {
+        "title": "Resolute",
+        "url": "https://www.resolute.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057617628-resolute-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057623671-resolute-landing-page-mobile.png"
+    },
+    {
+        "title": "Generated",
+        "url": "https://generated.photos/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057580522-generated-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057585239-generated-landing-page-mobile.png"
+    },
+    {
+        "title": "Driveghost",
+        "url": "https://www.driveghost.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057538866-driveghost-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057544194-driveghost-landing-page-mobile.png"
+    },
+    {
+        "title": "Checkr",
+        "url": "https://checkr.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651057501075-checkr-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651057506845-checkr-landing-page-mobile.png"
+    },
+    {
+        "title": "Smarterpatterns",
+        "url": "https://smarterpatterns.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651056470972-smarterpatterns-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651056474936-smarterpatterns-landing-page-mobile.png"
+    },
+    {
+        "title": "Apres",
+        "url": "https://apres.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651056431429-apres-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651056438951-apres-landing-page-mobile.png"
+    },
+    {
+        "title": "Otter",
+        "url": "https://otter.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651056375575-otter-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651056381651-otter-landing-page-mobile.png"
+    },
+    {
+        "title": "Superb AI",
+        "url": "https://www.superb-ai.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651056333559-superb-ai-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651056339908-superb-ai-landing-page-mobile.png"
+    },
+    {
+        "title": "Vaiot",
+        "url": "https://vaiot.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651056297329-vaiot-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651056302799-vaiot-landing-page-mobile.png"
+    },
+    {
+        "title": "Tara",
+        "url": "https://tara.ai/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651056246564-tara-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651056252000-tara-landing-page-mobile.png"
+    },
+    {
+        "title": "Looka",
+        "url": "https://looka.com/logo-maker/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651056126944-looka-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651056132654-looka-landing-page-mobile.png"
+    },
+    {
+        "title": "Rebanknow",
+        "url": "https://www.rebanknow.com/roast-my-finance-stack",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651055382808-rebanknow-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651055386411-rebanknow-landing-page-mobile.png"
+    },
+    {
+        "title": "Codat",
+        "url": "https://www.codat.io/assess/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651055290338-codat-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651055294587-codat-landing-page-mobile.png"
+    },
+    {
+        "title": "local-membership-template.webflow",
+        "url": "https://local-membership-template.webflow.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651055117409-local-membership-template.webflow-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651055124119-local-membership-template.webflow-landing-page-mobile.png"
+    },
+    {
+        "title": "Coastpay",
+        "url": "https://coastpay.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054963943-coastpay-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054968391-coastpay-landing-page-mobile.png"
+    },
+    {
+        "title": "Empower",
+        "url": "https://empower.me/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054932032-empower-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054936388-empower-landing-page-mobile.png"
+    },
+    {
+        "title": "Squareup",
+        "url": "https://squareup.com/us/en/hardware/register",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054904026-squareup-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054910845-squareup-landing-page-mobile.png"
+    },
+    {
+        "title": "Verify",
+        "url": "https://verify.as",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054837311-verify-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054840613-verify-landing-page-mobile.png"
+    },
+    {
+        "title": "Chime",
+        "url": "https://www.chime.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054802242-chime-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054806786-chime-landing-page-mobile.png"
+    },
+    {
+        "title": "Checkout",
+        "url": "https://www.checkout.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054767677-checkout-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054771788-checkout-landing-page-mobile.png"
+    },
+    {
+        "title": "Choosefluid",
+        "url": "https://www.choosefluid.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054730248-choosefluid-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054734231-choosefluid-landing-page-mobile.png"
+    },
+    {
+        "title": "Razorpay",
+        "url": "https://razorpay.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651054698252-razorpay-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651054705051-razorpay-landing-page-mobile.png"
+    },
+    {
+        "title": "Aerotime",
+        "url": "https://www.aerotime.com/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1651019003338-aerotime-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1651019011017-aerotime-landing-page-mobile.png"
+    },
+    {
+        "title": "Dico",
+        "url": "https://dico.app/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650510954441-dico-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650510959644-dico-landing-page-mobile.png"
+    },
+    {
+        "title": "Glideapps.com",
+        "url": "https://www.glideapps.com/2.0",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650510753447-glideapps.com-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650510760435-glideapps.com-landing-page-mobile.png"
+    },
+    {
+        "title": "Pfpid",
+        "url": "https://www.pfpid.xyz/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650694214739-pfpid-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650694223209-pfpid-landing-page-mobile.png"
+    },
+    {
+        "title": "Featurebase",
+        "url": "https://www.featurebase.app/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650694149682-featurebase-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650694156962-featurebase-landing-page-mobile.png"
+    },
+    {
+        "title": "Spendflo",
+        "url": "https://www.spendflo.com",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650693980792-spendflo-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650693993912-spendflo-landing-page-mobile.png"
+    },
+    {
+        "title": "Surge",
+        "url": "https://surge.sh/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650250080433-surge-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650250086734-surge-landing-page-mobile.png"
+    },
+    {
+        "title": "Designup",
+        "url": "https://www.designup.net/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650511669657-designup-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650511675845-designup-landing-page-mobile.png"
+    },
+    {
+        "title": "Lyfe",
+        "url": "https://lyfe.ltd/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650249922341-lyfe-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650249927309-lyfe-landing-page-mobile.png"
+    },
+    {
+        "title": "Boomerang",
+        "url": "https://www.boomeranggmail.com/meeting-scheduling/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1650249453889-boomerang-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1650249458756-boomerang-landing-page-mobile.png"
+    },
+    {
+        "title": "Wunderbucket",
+        "url": "https://wunderbucket.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1647221764883-wunderbucket-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1647221764883-wunderbucket-landing-page-mobile.png"
+    },
+    {
+        "title": "Frase",
+        "url": "https://www.frase.io/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1647221664878-frase-pricing-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1647221664878-frase-pricing-mobile.png"
+    },
+    {
+        "title": "Joinditto",
+        "url": "https://joinditto.in/",
+        "desktop_img": "https://landingfoliocom.imgix.net/1647221574652-joinditto-landing-page-desktop.png",
+        "mobile-img": "https://landingfoliocom.imgix.net/1647221574652-joinditto-landing-page-mobile.png"
+    }
+]
